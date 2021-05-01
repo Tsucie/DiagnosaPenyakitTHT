@@ -1,0 +1,11 @@
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.exe
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.deps.json
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.runtimeconfig.json
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.runtimeconfig.dev.json
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.dll
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\bin\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.pdb
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\obj\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.csprojAssemblyReference.cache
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\obj\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.AssemblyInfoInputs.cache
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\obj\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.AssemblyInfo.cs
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\obj\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.dll
+C:\Users\TheGamer\Desktop\Document\Kecerdasan Buatan\Tugas\DiagnosaPenyakitTHT\obj\Debug\netcoreapp3.1\DiagnosaPenyakitTHT.pdb
